@@ -132,7 +132,7 @@ This is a simple Instagram clone built using **React.js** and **Firebase**. It i
 
 2. Install dependencies:
    ```bash
-   npm install
+   npm i
    ```
 
 3. Set up Firebase:
@@ -141,28 +141,6 @@ This is a simple Instagram clone built using **React.js** and **Firebase**. It i
 
 4. Run the app:
    ```bash
-   npm start
+   npm run dev
    ```
-
-## Screenshots
-![Home Page](/screenshots/home.png)
-![Profile Page](/screenshots/profile.png)
-
-## Live Demo
-[View Live Demo](https://your-instagram-clone-url.com)
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-```
-
----
-
-This `README.md` file provides a clear overview of your project, how to set it up, and what technologies were used. You can customize it further based on your project's specifics. Let me know if you need help with any part of the implementation!
-
-
-
-
 
