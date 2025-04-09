@@ -19,6 +19,7 @@ import ProfileMessage from './pages/footar-menu/ProfileMessage';
 import NewRequestManage from './pages/header-menu/NewRequestManage';
 import ChatBox from './pages/chetabox/ChatBox';
 import EditProfile from './pages/Profile-Page/EditProfile';
+import SettingAndActivity from './pages/Profile-Page/SettingAndActivity';
 
 const App = () => {
   return (
@@ -42,7 +43,8 @@ const App = () => {
         <Route path='/ProfileMessage' element={< ProfileMessage />} />
         <Route path='/NewRequestManage' element={< NewRequestManage />} />
         <Route path='/ChatBox' element={< ChatBox />} />
-        <Route path='EditProfile' element={< EditProfile />} />
+        <Route path='/EditProfile' element={< EditProfile />} />
+        <Route path='/SettingAndActivity' element={< SettingAndActivity />} />
       </Routes>
     </div>
   )
