@@ -119,10 +119,10 @@ const Profile = () => {
                 </div>
               </div>
               <div>
-                <img
+                <Link to='/SettingAndActivity'><img
                   className="ml-[20.8rem] -mt-[2.2rem] size-[2.2rem]"
                   src="https://cdns.iconmonstr.com/wp-content/releases/preview/7.1.0/240/iconmonstr-line-three-horizontal-lined.png"
-                ></img>
+                ></img></Link>
               </div>
             </section>
           </div>
